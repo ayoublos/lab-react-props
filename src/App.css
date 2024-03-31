@@ -1,1 +1,19 @@
 /* Your code here! */
+.progress-container{
+    h3{
+        span{
+            color:hotpink
+        }
+    }
+    h5{
+        span{
+            color:hotpink
+        }
+    }
+    
+}
+.donation{s
+    .donation-name-input{
+        margin-top: 20px;
+    }
+}

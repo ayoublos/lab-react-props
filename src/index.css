@@ -108,3 +108,14 @@ header p {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+.donation-container{
+  h5{
+    color: rgb(7, 98, 156);
+    margin-bottom: 0px;
+    padding: 0px;
+  }
+  p{
+    font-size: 13px;
+    
+  }
+}
